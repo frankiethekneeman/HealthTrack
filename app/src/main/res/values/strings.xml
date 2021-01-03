@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HealthTrack</string>
+    <string name="title_activity_configure_tracked_interventions">Currently Tracked Interventions
+    </string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="schedules">Schedules</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="interventionNameHint">Name</string>
+    <string name="intervalHeader">Every…</string>
+    <string name="hours_label">hours</string>
+    <string name="minutes_label">minutes</string>
+    <string name="startingScheduleHeader">starting…</string>
+    <string name="at_a_specific_time">At a Specific Time</string>
+    <string name="after_an_event">After An Event</string>
+    <string name="triggerHeader">after</string>
+    <string name="timeOneTimeHeader">At…</string>
+    <string name="oneTimeTriggerHeader">after the first time</string>
+    <string name="title_new_intervention">New Intervention</string>
+    <string name="delete_intervention">Delete Intervention</string>
+    <string name="starting">Starting</string>
+    <string name="bullet">bullet</string>
+    <string name="remove">Remove</string>
+</resources>
